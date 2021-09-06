@@ -14,3 +14,4 @@
 * [정렬과 탐색 (Sort and Search)](https://github.com/hyunjoontech/TIL/blob/main/Algorithm/210904_2.md)
 * [재귀 알고리즘 (Recursive Algorithm)](https://github.com/hyunjoontech/TIL/blob/main/Algorithm/210905.md)
 * [알고리즘의 복잡도 (Complexity of Algorithms)](https://github.com/hyunjoontech/TIL/blob/main/Algorithm/210905_2.md)
+* [연결 리스트 (Linked List)](https://github.com/hyunjoontech/TIL/blob/main/Algorithm/210906.md)
