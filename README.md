@@ -18,3 +18,4 @@
 * [스택 (Stack)](https://github.com/hyunjoontech/TIL/blob/main/Algorithm/210910.md)
 * [큐 (Queue)](https://github.com/devholic22/TIL/blob/main/Algorithm/210911.md)
 * [트리 (Tree)](https://github.com/devholic22/TIL/blob/main/Algorithm/210912.md)
+* [힙 (Heap)](https://github.com/devholic22/TIL/blob/main/Algorithm/210913.md)
