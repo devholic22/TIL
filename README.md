@@ -23,4 +23,3 @@
 ### Basic Skills (HTML, CSS, Vanilla JavaScript)
 * [라인(LINE) 클론 프로젝트](https://github.com/devholic22/line_clone)
 * [투두리스트 프로젝트](https://github.com/devholic22/js_todo_clone)
-* [CSS 정리](https://github.com/devholic22/css_study)
